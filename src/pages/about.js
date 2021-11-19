@@ -2,7 +2,7 @@ import * as React from 'react'
 import Layout from '../components/layout'
 const AboutPage = () => {
   return (
-    <Layout pageTitle="Kroppens harmoni">
+    <Layout pageTitle="Den harmoniska kroppen">
 <h3>Appolon och Dionysos</h3>
 <p>Under antiken personifierade Apollon den medvetna kontrollen, som kommer till uttryck genom att den övre människan har ett dominerande inflytande i kroppens sträckning. Appolon hade ansvaret för att leda solens lopp i harmoni med världsalltets gång.</p>
 
