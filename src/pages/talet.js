@@ -27,6 +27,11 @@ const AboutPage = () => {
 <h3>Vokalerna och att sända ut ljudet</h3>
 <p>Ljudet M är vårt första hjälpmedel i övningen att sända ut ett ljud från hela kroppen i full resonans, fritt och övertonsrikt.</p>
 <p>När vi genom denna övning blivit förtrogna med ljudvibrationen i sig kan vi öppna rösten och rikta den mot yttervärlden. För detta skall vi använda oss av vokalerna.</p>
+<p><i>Vi ställer oss på drygt en meters avstånd från en vägg och tar mentalt kontakt med en bestämd punkt på väggen framför oss.</i></p>
+<p><i>Denna intention kommer helt naturligt att rikta ögonen mot den punkt vi valt. För att inte riskera att spänna halsen eller komma i obalans väljer vi till en början en punkt som blicken lätt kan nå, inte högre än horisontallinjen eller i ögonhöjd.</i></p>
+<p><i>Medan vi behåller kontakten med denna punkt öppnar vi munnen lätt och sänder med utandningen ut ljudet Å (som i "då"), som för att vidröra punkten på väggen med det. Vid slutet av utandningen låter vi tonen dö ut, och inandningen kommer av sig själv under avspänningen.</i></p>
+<p><i>På samma sätt som blicken så att säga osynligt förlängs ända till kontaktpunkten på väggen sänder också rösten genom Å-ljudet ut ett slag antenn för att nå denna punkt. Genom att upprepa övningen under några minuter kan rösten undan för undan hitta den naturligaste platsen och med lätthet glida mot målet. Liksom med ljudet M låter vi rösten hitta sin egen plats på den tonhöjd som känns lättast.</i></p>
+<p>Kontakten med punkten på väggen skall vara så avspänd som möjligt. Vi försöker tillföra den samma kvaliteter som vi fann när vi lyssnade till andningen. Fokus för uppmärksamheteten flyttas helt enkelt från den inre världen till den yttre.</p>
 <p>Här ska fyllas på</p>
 
     <p>Hi there! I'm the proud creator of this site, which I built with Gatsby.</p>
