@@ -13,6 +13,7 @@ const AboutPage = () => {
 <p>Vilka möjligheter till dialoger och till ömsesidiga fruktbara utbyten finns det inte! Med vilken utarmning för oss om vi enbart identifierar oss med en av dessa poler och därigenom försöker utplåna den andra!</p>
 
 <p>Såväl till det yttre som till det inre blir det mycket lättare för oss att känna igen och acceptera dessa båda poler om vår mentala närvaro blir fastare förankrad. Den ensam kan omspänna ytterligheterna utifrån en högre belägen utsiktspunkt, där det rena 'jag är' framträder som den oföränderliga bakgrund mot vilken alla förändringar utspelas.</p>
+
       <p>Hi there! I'm the proud creator of this site, which I built with Gatsby.</p>
     </Layout>
   )
