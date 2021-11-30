@@ -49,6 +49,21 @@ const AboutPage = () => {
 <p>De första övningarna drog oss delvis tillbaka från yttervärlden. Med uppmärksamheten riktad inåt har vi lärt känna de krafter som verkar i kroppen, andningen och den mentala inställningen. I balansen, friheten och den mentala närvaron har vi funnit de förutsättningar som för oss närmare ett sätt att vara friare, mer samlade.</p>
 <p>Genom att iaktta sömen kan vi inom människokroppen uskilja en kroppslig och en psykisk del. Under den djupa sömnen är det psykiska frånvarande.</p>
 <p>På samma sätt kan vi genom att iaktta döden klart skilja mellan kroppens materiella beståndsdelar som lyder under fysikens och kemins lagar i (tyngdlagen, förruttnelsen) och de vegetativa processerna av vilka livet beror och som är närvarande från befruktningen till döden, i sömnen lika väl som i vaket tillstånd, När dessa livskrafter nästan samtidigt dras tillbaka i dödsögonblicket förvandlas människokroppen till ett kadaver, prisgivet åt rent fysiska och kemiska krafter som undan för undan kommer att upplösa den.</p>
+<p>Och slutligen har den lyhörda upplevelsen av det inre livet visat oss den viktiga skillnaden mellan de psykiska beståndsdelarna  - föreställningar, känslor, viljemässiga impulser - och det centrala subjektet inom oss; detta "jag är" som är det medvetna vittnet till dessa.</p>
+<p>Vi kan alltså uppfatta fyra olika, väl åtskilka kompenenter inom oss själva:</p>
+<h3><b> - den materiella kroppen som inte framträder i sitt rena tillstånd som kadaver förrän efter döden;</b></h3>
+<h3><b> - de fysiologiska processerna på vilka livet beror från befruktningen till döden;</b></h3>
+<h3><b> - de psykiska beståndsdelarna;</b></h3>
+<h3><b> - den mentala närvaron, vars klarhet kan bli en ständig bakgrund för vårt medvetna liv.</b></h3>
+<p>De två första komponenterna, den materiella och den fysiologiska, bildar en odelbar helhet från födelsen till döden. Det är den levande kroppen, som jag har kallat för hästen inom oss.</p>
+<p>Psykiskt liv och mental närvaro, som är frånvarande från kroppen under sömnen, förenar sig med den under hela det vakna livet. Det är denna helhet som jag har kallat för ryttaren.</p>
+<p>Den rent materiella kroppen har hos oss framförallt en existens i rummet. Den fysiologiska komponenten av vegetativ natur existerar däremot huvudsakligen i tiden: den manifesteras i rytmisk form i växandets och avtagandets processer.</p>
+<p>I och med att vi kommer in på det psykiska livet, lämnar vi tidens och rummets omedelbara påverkan. Det som inte är närvaradne här och nu, det som redan skett, våra planer och våra minnen, kan vara lika aktivt inom oss som våra aktuella intentioner och förnimmelser.</p>
+<p>När det gäller det centrala jagmedvetandet är nutiden alltid dess element. I detta närvarande nu kan det omfatta tiden och rummet i ett enhetligt medvetandefält. Jagmedvetandet begränsas bara av sin egen förmåga att utvidgas och koncentreras.</p>
+<p>Det kan förstora eller krympa fokus för sin uppmärksamhet i rummet, koncentrera sig på en detalj eller omfatta hela världar.</p>
+<p>Samma sak är möjlig i tiden: Det är lättast att notera denna förmåga inom musiken. En musiker kan för sin inre blick bevara ett helt stort musikstycke av vilket han spelar en sats i taget, takt för takt. En dirigent som leder en operaföreställning måste hela tiden vara medveten om den helhet som förenar akterna sinsemellan, annars skulle han förlora sambanden och överblicken i sin tolkning. I varje ögonblick måsten han också ha en klar rumslig bild av var de olika instrumentgrupperna sitter i orkesterdiket och hur sångarna är utspridda på scenen.</p>
+<p>Det finns ingen på förhand given gräns för vad vår mentala närvaro kan begripa, i ordets ursprungliga bemärkelse, det vill säga omfatta och göra till sitt eget.</p>
+<h3>Den rumsliga expansionen</h3>
 
 
 
