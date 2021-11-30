@@ -36,6 +36,21 @@ const AboutPage = () => {
 <p>Vokalen Å som vi började med har fördelen att vara lätt att frambringa. Den är varken för sluten eller för öppen och ligger placerad varken för långt bak eller för långt fram i munnen.</p>
 <p>När vi kan sända ut ljudet Å mot målet utan problem ersätter vi det med vokalen A (som i "han"), som är öppnare och ligger längre bak i svalget. Att sända ut ett tydligt A kräver en avspänd balans i halsen.</p>
 <p>När vi också kan sända ut ett A-ljud med lätthet, klart avskilt från Å-ljudet, griper vi oss an vokalen I (som i "vit"). Den placeras naturligt i centrum av munnen, mellan svalget och läpparna men i motsats till A-ljudet medför det att ljudets utsändning koncentreras och pressas samman och det får härigenom en särskilt stark klangskärpa.</p>
+<p>I och med att munnen öppnas för att sända ut vokalerna möter vi ytterligare en svårighet. Det är viktigt för röstens avspänning och frihet att halsens och huvudets balans inte störs av felaktiga spänningar när man ljudar. Vid en riktig och effektiv koordinering bildar överkäken tillsammans med kraniet en stabil och orörlig stödpunkt, gemensam  med halsen som förlängning av reflexerna. Det är bara underkäken som rör sig och sänker sig under avspänning för att öppna munnen och släppa fram det ljud som talas eller sjungs.</p>
+<p>De tre vokalerna Å, A och I utgör genom sina kompletterande egenskaper en balanserad övning i att sända ut ljud. De har också den egenskapen gemensam att de riktar sig direkt och öppet mot yttevärlden.</p>
+<p>Genom sin öppna karaktär förknippas A-ljudet helt naturligt med en stor mottaglighet, en välkommande, något hänförd attityd.</p>
+<p>Genom sin klangfärg inbjuder I-ljudet till självbekräftelse och kan påtagligt sätta sin prägel på omvärlden.</p>
+<p>Genom sin balans tycks Å-ljudet i ett jämlikt förhållande innefatta både möjligheten att ge och att ta emot.</p>
+<p>För övrigt är det märkligt att se i vilken hög grad det latinska alfabetet ger uttryck åt dessa drag till och med i bokstävernas form. A är en vinkel som öppnar sig. I en hoklämd käpp och O en cirkel som sluter sig.*</p>
+<p>Andra vokaler som E och U associeras lätt till rörelser tillbaka till sig själv som reaktioner på yttre inflytanden. Om de övas regelbundet kan de få en mer återhållande än befriande verkan. Jag arbetar inte systematiskt med dem annat än i speciell träning med skådespelare och sångare.</p>
+<h3><i>Närvarons utstrålning</i></h3>
+<h2>Strukturen hos vår organism</h2>
+<p>Innan vi fortsätter med röstövningarna skall vi försöka sammanfatta och förtydliga vad vi uppnått när det gäller att förstå vår organism. På så sätt får vi en fastare grund att stå på.</p>
+<p>De första övningarna drog oss delvis tillbaka från yttervärlden. Med uppmärksamheten riktad inåt har vi lärt känna de krafter som verkar i kroppen, andningen och den mentala inställningen. I balansen, friheten och den mentala närvaron har vi funnit de förutsättningar som för oss närmare ett sätt att vara friare, mer samlade.</p>
+<p>Genom att iaktta sömen kan vi inom människokroppen uskilja en kroppslig och en psykisk del. Under den djupa sömnen är det psykiska frånvarande.</p>
+<p>På samma sätt kan vi genom att iaktta döden klart skilja mellan kroppens materiella beståndsdelar som lyder under fysikens och kemins lagar i (tyngdlagen, förruttnelsen) och de vegetativa processerna av vilka livet beror och som är närvarande från befruktningen till döden, i sömnen lika väl som i vaket tillstånd, När dessa livskrafter nästan samtidigt dras tillbaka i dödsögonblicket förvandlas människokroppen till ett kadaver, prisgivet åt rent fysiska och kemiska krafter som undan för undan kommer att upplösa den.</p>
+
+
 
 <p>Här ska fyllas på</p>
 
