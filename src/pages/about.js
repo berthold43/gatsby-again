@@ -118,6 +118,96 @@ const AboutPage = () => {
 <p>När det gäller andningen är en av dessa förbindelser av alldeles speciell betydelse. Det rör sig om en impuls direkt från det koordinationscentrum där den övre och den nedre människan möts i höjd med den nedersta bröstkotorna och de översta ländkotorna. Där möts, inne i ryggraden, diafragmans arkad och fästet för psoasmuskeln, som tvärs igenom bäckenet är en förbindelse med den övre delen av lårbenet. Där förlängs förbindelsen genom den fyrhövdade lårmuskeln (m qudricepsfemoris) som fortsätter koordinationslinjen ända ner till knäet.</p>
 <p>Hela denna muskellinje fungerar i stående som en sträckning av benet och ryggen och stimuleras lätt av diafragmans sammandragning vid varje inandning. På så sätt kan man undan för undan känna hur andningsrytmen förenas med rytmen från benens pendelrörelser runt  mittaxeln. Denna subtila integrering sker av sig själv och kan länge var helt omärklig. Jag ser den som ett tecken på en funktionell enhet som förverkligas när villkoren för balans och frihet är uppfyllda. Denna integrering kan inte framkallas avsikligt utan att bli konstlad.</p>
 <h3><b>Andningscirkulationen</b></h3>
+<p>När vi övar regelbundet i veckor och kanske i månader kommer undan för undan de förnimmelser av andningsprocessen som vi redan haft att fördjupas. Allt mer subtila aspekter kommer att framträda, men jag vill inte gå in på dem här utan en viss tvekan. Risken  är nämligen att läsaren viljemässigt försöker framkalla det som han i stället i sitt eget intresse bara borde låta ske. När de djupare förnimmelserna kommer upp till medvetandets yta utgör de en bekräftelse på en verklig fördjupning. Men om de framkallats med viljan är de bara karikatyrer som förstärker just det fängelse som vi försöker slippa ut ur.</p>
+<p>Det är därför jag så kraftigt betonar skillnaden mellan det man själv skall göra, nämligen att söka efter balans, frihet och mental närvaro, och det som bara indirekt kommer fram under övningarnas gång.</p>
+<p>En aspekt av andningskoordinationen kan förnimmas redan i den sittande ställningen men blir ännu tydligare i den stående om lodlinjen är riktig börjar vi känna hur andningen inte är något som går fram och tillbaka utan att den beskriver  ett kretslopp eller en slinga. Med andra ord, inandningen följer inte samma väg som utandningen. Fastän inandningen sätter hela bålen i rörelse stiger dess kraftigaste koordintionsflöde uppåt längs ryggsidan ända till övre delen av halsen. Vid utandningen däremot går i stället det viktigaste flödet nedåt på framsidan mot buken.</p>
+<p>Den koordination som är förbunden med andningen framträder alltså som ett nätverk av muskler, som omsluter hela bålen. Dess funktion kan liknas vid ett kretslopp som stiger upp genom ryggen vid inandningen och går ner genom buken vid utandningen. Som helhet är det fråga om en ellips, som fritt rör sig runt sin mittaxel och vars rörelse ständigt modellerar bålen och befäster dess form.</p>
+<p>När man känner hur andningen når ända ner till benen strävar detta kretslopp efter att omfatta också benen ända ner till fötterna. Det medför en mycket lätt uppåtsträckning vid inandningen med en motrörelse bakåt av kroppen och vid utandningenen en lätt sammandragning medan tyngdpunkten förskjuts något framåt på fotsulan. Man kan känna sig helt och hållet uppfylld av andningsrytmen och andas verkligen genom hälarna.</p>
+<p>Alla dessa rörelser är naturligtvis yttest små. De utspelas kring mittaxeln och levandegör denna i en lätt pendelrörelse fram och tillbaka utan att den går förlorad.</p>
+<p>Kan vi nu sätta in de subjektiva förnimmelser som jag nyss beskrivit i deras anatomiska och fysiologiska sammanhang? Ja, och det gör det också möjligt att komma fram till en levande syntes av de många faktorer som naturvetenskapen har en tendens att beskriva analytiskt, som skilda element</p>
+<p>Utan att gå in på alla detaljer vill jag nämna några viktiga punkter.</p>
+<h3><b>1. Vid inandningen</b></h3>
+<p>Diafragman har redan på goda grunder visat sig vara inandningens viktigaste "motor". Dess arbete är något komplext, men det är nödvändigt att förstå den om man vill få en objektiv bild av dess funktion vid sidan av de subjektiva förnimmelserna av andningen.</p>
+<p>Diafragman är konstruerad som en kupol med muskelfibrer som strålar ut från dess tak. De krafigast av dem fäster baktill vid ryggraden och vid dom två nedersta revbensparen (de fria revbenen).</p>
+<p>Vid inandningen rör sig diafragman i två etapper:</p>
+<h4><b>-- först sänker fibrerna kupolen genom att dra sig samman. Då ökar bröstkorgens volym i höjdled, som när en pumpkolv eller pistong dras nedåt. Bukmassan trängs undan och utvidgas något framåt och åt sidorna.</b></h4>
+<h4><b>-- därefter stabiliseras bukmassan och bildar en stödpunkt åt diafragmakupolen. Utifrån detta stöd drar nu diafragmans förkortade fibrer den nedre delen av bröstkorgen och även de nedersta bröstkotorna utåt sidorna och uppåt. Därigenom utvidgas bröstkorgen i fyra riktningar framåt, bakåt, åt höger och åt vänster.</b></h4>
+<p>På grund av att de nedersta, fria revbenen har en ökad rörlighet och att diafragmans bakåtriktade kraft är större framträder andningsrörelsen tydligare i riktning bakåt än framåt.</p>
+<p>Rörelsen då bröstkkorgen vidgas fortsätts av de yttre revbensmusklernas arbete. Detta undertöds i ryggens övre del av de små främre sågmusklerna och fortsätts av scalenmusklerna upp till övre delen av halsen Dessa båda muskelsystem förstärker rörelsen uppåt på bröstkorgens ryggsida.</p>
+<p>Hela denna koordination sker jämnt och lugnt och känns som en oavbruten vågröreelse. Den sträcker sig från buken som i början utvidgar sig, ända till skallens bas där den når slutet av banan genom scalenmusklernas spel.</p>
+<p>Vi kan alltså se hur kroppen genom sin anatomi strävar efter att förstärka den uppåtstigande andningsrörelsen i ryggen.</p>
+<p>Låt mig lägga till en uppgift som jag redan nämnt.</p>
+<p>Sammandragningen av diafragman återverkar helt lätt på psoasmuskeln som förlängs i de fyrhövdade lårmusklerna för att fortsätta den allmänna sträckningsrörelsen i benen.</p>
+<h3><b>2. Vid utandningen</b></h3>
+<p>Utandningens främsta "motor" är bukmusklerna, vaars fästen och fiberriktning formar utandningsflödet.</p>
+<p>Bland dessa muskler ger de tvära bukmusklerna det djupaste stödet. De är också diafragmans främst antagonister. De omsluter hela buken genom att fästa vid ryggraden, bäckenet och bröstkorgens nedre del. De påverkar utandningen på två sätt.</p>
+<h4><b> --genom att dra ihop sig trycker de samman bukinnehållet som pressar den nu avspända diafragman tillbaka uppåt och minskar bröstkorgens volym på höjden, som när en pumpkolv går tillbaka av sig själv.</b></h4>
+<h4><b>--den drar samman bröstkorgens hela nedre del och minskar därigenom dess volym såväl åt sidorna som framåt och bakåt.</b></h4>
+<p>Bukmusklerna strävar genom sin fiberriktning inte bara efter att dra samman buken och nedre delen av revbenen utan också efteer att åstadkomma en böjning av hela bålen i höjd med midjan.</p>
+<p>De tvära bukmusklernas arbete döljs och fördjupas av de sneda bukmusklerna, de stora muskler som täcker midjan på båda sidor och därigenom förenar bröstkorgen och bäckenet. Tillsammans strävar de efter att stänga bröstkorgen genom att dra dess nedre del nedåt och framåt i riktning mot buken. Också de bidrar till att stänga till buken genom en lätt sammandragning av bålen.</p>
+<p>Bukens arbete åtföljs i bröstkorgen av en sammandragning av revbenen, vilket utförs av de inre revbensmusklerna.</p>
+<p>Med samarbetet mellan bäckenets muskler som pyramidmuskeln förmedlas denna ansats till sammandragning vidare till benet och kan förlängas ända ut till fötterna, om de ytligare spänningarna inte lägger hinder i vägen</p>
+<p>Hela denna utandningskoordination fungerar alltså som en kraftsamling mot buken. När denna kraft spänns av och diafragman återtar sin aktivitet kan alltså buken vidgas i början av den inandning som följer.</p> 
+<h3><b>Mental närvaro</b></h3>
+<p>När vi har hittat fram till mittaxeln och andningen av sig själv etablerat sig i sitt kretslopp är det återigen den mentala inställningen som är centrum för övningen.</p>
+<p>Också här är det bra att, åtminstone för att underlätta i början, återfinna viloläget för blicken: man sänker blicken lätt utan att sluta ögonen. Detta gör det möjligt att fokusera uppmärksamheten på flödena inom den egna kroppen utan att stänga sig ute från yttervärlden.</p>
+<p>Vårt inre söker liksom ryttaren den centrala utsikspunkt som gör det möjligt att stabilt rida på de flöden som föds ur hållningsreflexerna och andningen. Dessa försök leder oss till samma solarplexus-område som vi upptäckte under den sittande övingen. Centrum för utstrålningen är inte annorlunda nu, men uppmärksamhetens synfält vidgas till att omfatta hela kroppen ända ner till det underlag vi står på.</p>
+<p>Vi måste vara observanta på att kontakten med andningen inte består i att man mentalt följer hur den kommer och går, att stiga och sjuka med den, utan att söka en stabil inre utsiktspunkt, från vilken man kan betrakta andningen som en helhet. Det är i detta stabila mentala fält som andnigens fria rörelser utspelas.</p>
+<p>Vi kommer alltså att återfinna förnimmelsen av att kroppen är en enda cell, genomströmmad av en mångfald rytmer och flöden som harmoniskt förenas i en inre tyst musik.</p>
+<h3><b>Övningens gränser</b></h3>
+<p>Den upprättstående ställningen är troligen tröttsammare i början än den sittande övningen.
+Det gör att man inte orkar arbeta med den under alltför långa perioder. Det är för övrigt inte heller nödvändigt.</p>
+<p>Verkan av övningen är beroende av i vad mån vi på nytt lyckas skapa kontakt med gamla nerv- och muskelkretslopp som vi fjärmat oss ifrån på grund av våra vanor. Det handlar alltså inte om att skapa något nytt. Instrumentet finns sedan länge på plats, men kanske en smula rostigt. Det önskar inget hellre än att få ta tillbaka sin ursprungliga funktion, riktigare, friskare och mer enhetligt. Att återställa det harmoniska samspelet med, de djupa underliggande kretsloppen bör kräva mindre ansträngning av oss än vi lagt ner under många, långa år för att göra oss deformerade.</p>
+<p>Den stora skillnaden är att den energi som vi använde för denna deformering var resultatet av en omedveten reaktion, medan vi nu medvetet sträver efter att återgå till kroppens ursprungliga harmoni.</p>
+<p>Mest effektiva är kortvariga, men ofta och regelbundet återkommande övningar, vars verkan försiggår under medvetandets tröskel.</p>
+<p>Till en början kan två till tre minuter räcka för varje gång. Man skallemellertid fortsätta med övningen till dess att man får en förnimmelse av att lodlinjen hittar sin rätta plats och går fritt och rakt igenom de vidöppna lederna: hals, bröst, höfter och knän. Sedan måste man ge andningen tid och tillåtelse att finna sin rytm och fylla kroppen med den. Och till sist återvänder man medvetet till den centrala utsiktspunkten varifrån allt kan förnimmas i sin helhet.</p>
+<p>Dessa medvetandegöranden räcker för att på nytt starta de djupa reglerande mekanismerna, liksom några minuters ätande sätter igång matsmältningssystemet för flera timmar framöver.</p>
+<p>Det viktiga är att man under dessa få minuter försöker engagera sig djupt i övningen utan att tänka på något annat, utan att splittra sig invärtes.</p>
+<h3><b>Kompletterande övningar</b></h3>
+<p>För några läsare kan det vara svårare att tillgodogöra sig den statiska grundövningen än en dynamisk övning. Jag skall därför beskriva tre mycket enkla dynamiska övningar där man arbetar med samma komponenter som i den stående statiska övningen. Alltefter vars och ens tycke kan de användas som förberedelse, som tillämpning eller helt enkelt ...hoppas över.</p>
+<h3>Studsa</h3>
+<p><i>Börja med att stå i lodlinjen med fria inte låsta knän och låt armarna hänga av sig själva längs bålens sidor. Gå mjukt upp på tå så att hälarna frigörs från golvet och sedan tillbaka, så att hälarna på nytt tar i golvet </i></p>
+<p>Fortsätt utan uppehåll denna snabba växling där hälarna lämnar golvet och går tillbaka till dess att man hittat en lätt och fjädrande rytm.</p>
+<p><i>Rörelsen är mycket liten: hälarna lyfts bara så högt att de nätt och jämnt lämnar golvet.</i></p>
+<p><i>Fortsätt att studsa på detta sätt i ett par minuter.</i></p>
+<p><i>Låt andningen vara fri. Knäna skall varken sträckas eller böjas under rörelsen. De enda leder som rör sig är fotlederna och fötterna.</i></p>
+<p>Målet för övningen är att hitta en allt mer stabil balansaxel medan rörelsen pågår.</p>
+<p>Om det börjar göra ont i vaderna, gör då några ögonblicks uppehåll och fortsätt sedan inom de gränser som känns behagliga.</p>
+<p>Denna övning är en mycket effektiv hjälp för dem som har en tendens att placera kroppstyngden alltför långt bak på hälarna.</p>
+<h3>Böja</h3>
+<p>Följande övning har hämtats från såväl klassisk som modern dans. I Fjärran östern utövas den både av specialister på kampsporter och av dansare.</p>
+<p><i>När du hittat den rätta lodlinjen med höftbredd mellan fötterna precis som i den centrala övningen, böjer du knäna utan att lyfta någon del av fotsulan från golvet. Gå bara så djupt ner du kan utan att anstänga benen och utan att böja bålen. Återgå därefter till utgångsläget.</i></p>
+<p>Målet är inte att träna upp en muskelstyrka utan att öva upp en sensibilitet för balansen i linje med den vertikala mittaxeln. Benen fungerar som elastiska fjärdrar.</p>
+<p>Bålen som bärs upp av benen höjs och sänks som i en hiss i sitt schakt. Men här är "rälsen" , sträckan utmed vilken rörelsen sker, belägen inuti kroppen, dvs kroppens mittaxel.</p>
+<p>Om mittaxeln är riktig behålls kroppstyngden utan förändring rakt över fötternas mitt under hela övningen.</p>
+<p>Denna övning gör det möjligt att upptäcka att också varje ben har sin egen "räls". Den befäster balansen i det inbördes förhållandet mellan skelettets olika delar. Om detta inte respekteras blir lederna tvungna att vridas och kommer då att ta skada av rörelsen.</p>
+<p>Den funktionella anvndningen av benens "räls" visar sig genom två resultat:</p>
+<h4>-- objektivt rättar låret, underbenet och foten in sig på samma plan. Knäet till exempel lyfts och sänks i linje med foten utan att vridas vare sig inåt eller utåt;</h4>
+<h4>-- subjektivt förefaller benet glida lätt som på kullager utan någon fiktion i lederna. Rörelsen liksom badar i olja.</h4>
+<p>Medan studsövningen utfördes med små snabba rörelser är i stället denna övning längsam, djupgående och regelbunden.</p>
+<p>Andningen skall naturligtvis vara fri hela tiden, och man upptäcker kanske efter en stund att andningen och böjningen anpassar sig till en gemensam rytm.</p>
+<p>Om man inte är extremt trött kan man göra denna övning ett tiotal gånger, allt mer flytande och samlat. Det kommer då att kännas som ett flöde genom hela kroppen, som stiger och sjunker kring dess mittaxel.</p>
+<h3>Att ta tåget</h3>
+<p>En resa med tåg, buss -- eller tunnelbana där sådan finns -- kan göras till ett tillfälle att fördjupa den stående övningen.</p>
+<p><i>Ställ dig med fria knän och fjädrande ben utan att hålla fast dig med händerna någonstans.</i></p>
+<p><i>Vagnens mer eller mindre rytmiska skakningar tvingar dig att i varje ögonblick återfinna kroppens riktiga lodlinje för att inte förlora balansen. Låt benen vara elastiskt fjädrande och ta upp skakningarna utan att bli spända.</i></p>
+<p>Inför det motstånd som vagnens rörelser erbjuder är det mycket lättare att tydligt känna och dessutom indirekt intensifiera hållningsreflexernas arbete.</p>
+<p>Denna lek med de återfunna rötterna kostar inget extra och kan bära riklig frukt. LYCKA TILL.</p>
+<h3>Öviningens frukter</h3>
+<p>Å ena sidan fördjupar den stående övningen den sittande och liggande övningens resultat, å andra sidan möjliggör den att vi med mycket större skärpa kan uppleva vår relation till underlaget. Ännu tydligare än i den sittande ställningen kan vi upptäcka den förnimmelse av att känna sig rotad som följer av en riktig mittaxel.</p>
+<p>Denna rotfasthet kräver ingen muskelanspänning. Tvärtom kommer varje muskelsammandragning, varje blockering av lederna bara att förstöra denna förnimmelse. Den är helt beroende av två faktoreer: lodliinjen som upprättar ett riktigt förhållande till tyngdkraften, och avspänningen av alla leder som utan hinder låter lodlinjen passera tvärs igenom dem.</p>
+<p>Om dessa förutsättningar inte uppfylls är vi som vålnader som driver omkring på jordens yta utan stöd. Förgäves spänner vi oss och gör yttre ansträngningar, men det är bara ett sätt att klamra sig fast vid grenarna, inte vid de verkliga rötterna.</p>
+<p>Om vi å andra sidan tillåter oss att hamna utanför vår mittaxel kan vi bara sjunka ihop. I stället för att fästa oss vid rötterna kommer tyngdkraften att uppsluka oss. Det skänker en vila för ögonblicket. Men när vi på nytt vill återgå till aktivitet faller vi tillbaka i vår maktlöshet, förkrympta och berövade vår verkliga grund.</p>
+<p>Det är för övrigt möjligt att vi inte har någon medveten uppfattning om detta. Eftersom vi förlorat minnet av något annat tillstånd betraktar vi dessa förnimmelser, som är förbundna med vår disharmoni, som helt normala. Kanske känner vi bara en allmän olust, en ständig osäkerhet, vars rätta orsak vi är oförmögna att finna.</p>
+<p>Vilka de fysiska och psykiska skälen än är till att vi förlorat vår avspända lodräta hållning kommer återvändandet till denna hållning att visa sig som en förnimmelse av rotfasthet och därigenom utgöra grunden för ett nytt sjävförtroende.</p>
+<p>Det handlar inte på något sätt om att utveckla en ny kraft, utan om att återknyta till de krafter som redan finns och som vi förlorat kontakten med. Det är ett i alla avseenden kvalitativ sökande.</p>
+<p>Hur många gånger har jag inte hört människor i alla åldrar uttrycka sin förvåning över att plötsligt känna hur "rötterna växer ut" eller hur "fötterna tränger ner två decimeter i jorden"!</p>
+<p>Upptäckten av våra rötter och det stöd som jorden ger oss får oss att mycket snart känna också den komplementära kraft som stiger uppåt från marken i våra hållningsreflexer, liksom saven dras uppåt, lockad av den öppna rymden ovanför våra huvuden.</p>
+<p>Genom tyngdkraften är vi fästa vid jordens mitt och får genom den vår styrka och stabilitet.</p>
+<p>Genom anti-tyngdkraften i våra muskulära reflexer lyfts vi upp mot himlens blå, mot nattens stjärnor. Från denna himmel får vi vår lätthet, vår rörlighet.</p>
+<p>Att stå upprätt, det är att finna den sant mänskliga hållningen, varken pressad nedåt eller dragen uppåt, utan det är att vara en förbindelselänk mellan himmel och jord. Eftersom jorden bär oss kan vi utan fruktan öppna oss för hela universum och likt Atlas bära hela dess rikedom på våra axlar.</p> 
+
+  
  
 
 
