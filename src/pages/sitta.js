@@ -94,7 +94,8 @@ balans inom våra aktuella gränser. Vi har nått dithän genom att medvetet fö
 <h3>Övningens frukter</h3>
 <h4><b>Balanskonstnären</b></h4>
 <p>I förra kapitlet beskrev jag vilka verkningar andningsövningen kunde ha på vår organism. Samma effekter återfinns också och fördjupas i den sittande övningen. Den stor skillnaden består i att anti-tyngdreflexerna nu sätts i spel och gör det möjligt att behålla den upprätta vertikala hållningen.</p> 
-  
+<p>Ryggradens stabila upprätta hållning ger människan en särställning som radikalt skiljer henne från djuren. Det är runt denna vertikala axel, stöttad av hållningsreflexerna, som den fina koordinationen av bål, armar och ben undan för undan byggs upp. Den utgör grunden för all mänslklig aktivitet.Genom förmedling av det retikulära aktiveringssystemet i hjärnstammen är hållningsreflexernas banor några av de viktigaste reglerande funktionerna för kroppens tonus som helhet och psykologiskt sett för den vakenhetsgrad som är förbunden med kroppens tonus.</p>
+   
   
   
 
