@@ -16,14 +16,9 @@ const IndexPage = () => {
 <li>Att sitta</li>
 <li>Att stå</li>
 <li>Att använda rösten</li>
-<li>Att gå</li>
-<li>Pisksnärten</li>
-<li>Vågen</li>
-<li>Innan vi skiljs</li>
+<li>Att gå - Pisksnärten - Vågen - Innan vi skiljs</li>
 </ul>
 
-
-      <p>I'm making this by following the Gatsby Tutorial.</p>
       
   
     </Layout>
