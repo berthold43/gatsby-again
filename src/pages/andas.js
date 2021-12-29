@@ -58,6 +58,14 @@ const AboutPage = () => {
 <p>Om vi fullföljer övningen utan att ha för avsikt att lyckas till varje pris, om vi bara lugnt fortsätter våra försök, kommer detta att inleda en process. Genom hela serien av försök och misslyckanden kommer den att bära frukt alldeles av sig själv när tiden är mogen.</p>
 <h4>Kom bara ihåg: att öva är att försöka, inte att lyckas.</h4>
 <h3>Övningens frukter</h3>
+<p>Vissa resultat börjar märkas redan efter de allra första försöken, andra först efter upprepade övningar.</p>
+<p>Vi går alla in i en övning som denna från olika utgångspunkter eftersom vi från födelsen bär på olika genetiskt bagage.</p>
+<p>Mot denna personliga bakgrund sätter sedan vår egen historia, vårt livs materiella, sociala, känslomässiga och intellektuella förhållanden sina spår. Vanor bildas och många av dem sjunker ner i det omedvetna och påverkar oss utan att vi märker det. Två vuxna personer kan alltså inte starta utifrån en och samma utgångspunkt.</p>
+<p>Den övning som föreslås här kan utföras på samma sätt av alla, eftersom den bygger på gemensamma element: andningsreflexer och mental närvaro. Men i vilken ordning resultaten följer, vilken betydelse de får och hur långvariga de blir kommer med nödvändighet att variera från person till person, beroende på hur vars och ens förvärvade vanor fungerar. Detta påpekande gäller för alla övningar som jag kommer att beskriva.</p>
+<p>Jag vill ändå försöka ge några anvisningar. De första resultaten av övningarna kommer i synnerhet att beröra medvetandegörandet. Vissa fakta kommer att framstå klarare. Vårt intresse, som hittills framför allt har varit riktat mot yttervärlden, kommer att stimuleras av en mängd nya faktorer i förnimmelserna från den egna kroppen.</p>
+<h3>Enhet</h3>
+<p>Låt oss gå tillbaka til de första försöken: vi behåller kontakten med andningen just så som den visar sig fritt i solarplexusområdet under våra händer. Vi accepterar andningen sådan den är och ger den tid att vänja sig vid vår uppmärksamhet. Vi kommer att märka att den blir allt mera regelbunden efter hand, att bukens rörelser mer och mer börjar likna en våg som stiger och sjunker under våra fingrar och som av sig själv, liksom trevande, söker sin egen optimala rytm och plats.</p>
+<p>Därpå konstaterar vi att rörelsen inte begränsas bara till det område där våra fingrar har uppmärksam kontakt. Efterhand kan vi känna att rörelsen blir regelbunden och allt tydligare hur den långsamt breder ut sig i hela buken och i hela bröstkorgen. Det ställe där våra fingrar vilar upplevs mer och mer som en passage, som en svängdörr mellan buken och bröstkorgen. Genom denna öppna dörr förenas den övre och den nedre delen av kroppen i rytmisk kontaḱt.</p>
 
 
 
