@@ -39,7 +39,7 @@ const IndexPage = () => {
     </tr>
     <tr>
      
-      <th>Frihet</th>
+      <td>Frihet</td>
     </tr>
     <tr>
          <td>Mental närvaro</td>
@@ -129,11 +129,31 @@ const IndexPage = () => {
     <tr>
     <td>Statisk och dynamisk balans</td>
     </tr>
-
+    <tr>
+    <td>Polariseringen framåt</td>
+    </tr>
+    <tr>
+    <td>Frihet</td>
+    </tr>
+    <tr>
+    <td>Andningscirkukationen</td>
+    </tr>
+    <tr>
+    <td>Vid inandning - Vid utandning</td>
+    </tr>
+    <tr>
+    <td>Mental närvaro</td>
+    </tr>
+     <tr>
+     <th colspan="2">Övningens gränser</th>
+     </tr>
+    <tr>
+    <td>Kompletterande övningar</td>
+    </tr>
+    
   </tbody>
-  
-</table>
-
+  </table>
+<p></p>
 <table>
 	<thead>
 		<tr>
@@ -148,10 +168,19 @@ const IndexPage = () => {
 		<td>Andning vår inre terapeut</td>
 		</tr>
         <tr>
+        <td>Den centrala övningen</td>
+        </tr>
+        <tr>
         <td>Frihet</td>
         </tr>
         <tr>
         <td>Mental närvaro</td>
+        </tr>
+        <tr>
+        <td>Balans</td>
+        </tr>
+        <tr>
+        <th>Övningens frukter</th>
         </tr>
     </tbody>
     <thead>
