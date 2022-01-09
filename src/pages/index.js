@@ -150,6 +150,108 @@ const IndexPage = () => {
     <tr>
     <td>Kompletterande övningar</td>
     </tr>
+    <tr>
+    <td>Studsa</td>
+    </tr>
+    <tr>
+    <td>Böja</td>
+    </tr>
+    <tr>
+     <th colspan="2">Övningens frukter</th>
+     </tr>
+    <tr>
+    <th>5.Att använda rösten</th>
+    </tr>
+    <tr>
+     <th colspan="2">Den centrala övningens </th>
+     </tr>
+     <tr>
+    <td>Ljudet M och rösten i sig</td>
+    </tr>
+     <tr>
+    <td>Vokalerna och att sända ut ljudet</td>
+    </tr>
+     <tr>
+     <th colspan="2">Närvarons utstrålning</th>
+     </tr>
+    <tr>
+    <td>Strukturen hos vår organism</td>
+    </tr>
+    <tr>
+    <td>Den rumsliga expansionen</td>
+    </tr>
+    <tr>
+    <td>Att stråla ut och att återvända till sig själv</td>
+    </tr>
+    <tr>
+    <td>Spelet med omgivningen</td>
+    </tr>
+    <tr>
+    <td>Vokaler och konsonanter</td>
+    </tr>
+    <tr>
+    <td>Rösten i tal och sång</td>
+    </tr>
+     <tr>
+     <th colspan="2">Övningens frukter</th>
+     </tr>
+    <tr>
+    <th>6.Att gå</th>
+    </tr>
+    <tr>
+     <th colspan="2">Den centrala övningens </th>
+     </tr>
+    <tr>
+    <td>Balans</td>
+    </tr>
+    <tr>
+     <th colspan="2">Centrala närvaro</th>
+     </tr>
+    <tr>
+    <td>Frihet</td>
+    </tr>
+     <tr>
+    <td>Benen - Fötterna - Armarna  - Bålen</td>
+    </tr>
+    <tr>
+    <td>Att ta sig utrymme</td>
+    </tr>
+     <tr>
+     <th colspan="2">Gåendet och de enskilda stegen</th>
+     </tr>
+    <tr>
+    <td>Att gå baklänges</td>
+    </tr>
+    <tr>
+    <td>Med höga klackar</td>
+    </tr>
+    <tr>
+    <td>Att bära bördor</td>
+    </tr>
+    <tr>
+    <td>Att springa</td>
+    </tr>
+    <tr>
+     <th colspan="2">Övningens frukter</th>
+     </tr>
+     <tr>
+    <th>7. Pisksnärten</th>
+    </tr>
+     <tr>
+     <th colspan="2">Den centrala övningens </th>
+     </tr>
+    <tr>
+    <td>Optimalt och maximalt omfång</td>
+    </tr>
+    <tr>
+    <td>"Bettet"</td>
+    </tr>
+     <tr>
+     <th colspan="2">Övningens frukter</th>
+     </tr>
+    
+    
+    
     
   </tbody>
   </table>
