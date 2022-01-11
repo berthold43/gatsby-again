@@ -46,7 +46,6 @@ Man handlar i blindo.</p>
 <p>Under antiken baserades de grekiska idrottsmännens träning på femkampens olika grenar. Två av dessa, löpning och hopp, betonade koordinationen av gången med vridningar och motvridningar, Diskuskastning och spjutkastning och utnyttjade pisksnärtens koordination. Den femte grenen slutligen koordinerade alla dessa koordinationer och nu i mötet med en motståndare i brottningen.</p>
 <p>Också för oss kan gångöviningen och pisksnärten ge nycklarna till en väl anpassad koordination i våra handlingar,som sedan kan tillämpas spontant efter det dagliga livets behov.</p>
 
- <p>Hi there! I'm the proud creator of this site, which I built with Gatsby.</p>
     </Layout>
   )
 }

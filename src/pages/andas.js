@@ -120,13 +120,6 @@ const AboutPage = () => {
 <p><i>Försök då att gå in i de spontana sträckningarna och ge efter för dessa impulser; utnyttja all den kraft som finns i dem.</i></p>
 <p>Dessa spontana, fria sträckningar, som regleras av det omedvetna allt efter musklernas tillfälliga behov, är också utmärkta hjälpmedel att spänna av. De är exempel på barnens och djurens naturliga gymnastik. Om du har möjlighet att regelbundet ta dig några minuter på golvet, uppmärksamt lyssna till sträckningsimpulserna och lämna fältet fritt för dem, så kommer de att bli allt säkrare och naturligare. Som belöning kommer du att finna ett verkligt nöje i att göra dem.</p>
 
-
-
-
-
-
-
-<p>Hi there! I'm the proud creator of this site, which I built with Gatsby.</p>
     </Layout>
   )
 }

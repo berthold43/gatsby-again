@@ -198,8 +198,6 @@ Det gör att man inte orkar arbeta med den under alltför långa perioder. Det �
 <p>Genom anti-tyngdkraften i våra muskulära reflexer lyfts vi upp mot himlens blå, mot nattens stjärnor. Från denna himmel får vi vår lätthet, vår rörlighet.</p>
 <p>Att stå upprätt, det är att finna den sant mänskliga hållningen, varken pressad nedåt eller dragen uppåt, utan det är att vara en förbindelselänk mellan himmel och jord. Eftersom jorden bär oss kan vi utan fruktan öppna oss för hela universum och likt Atlas bära hela dess rikedom på våra axlar.</p> 
 
-
-      <p>Hi there! I'm the proud creator of this site, which I built with Gatsby.</p>
     </Layout>
   )
 }

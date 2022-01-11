@@ -265,8 +265,6 @@ handlingen utan också för det känslomässinga och instiktiva livet.</p>
 <p>Om vi känner lust till detta och mer än så, behov av det, kommer vi att bereda plats i vårt liv för dessa dagliga övningar. De ger oss en konkret grund för att återerövra vårt kungarike.</p>
 <h3>Då börjar vi alltså i morgon?</h3>
 
-
-  <p>Hi there! I'm the proud creator of this site, which I built with Gatsby.</p>
     </Layout>
   )
 }

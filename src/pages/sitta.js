@@ -161,10 +161,6 @@ balans inom våra aktuella gränser. Vi har nått dithän genom att medvetet fö
 <p>Jämfört med den liggande övningen är den vertikala sittställningen mera fullständig eftersom den leder till en balans mellan den inre aktiviteten och vilan. Om den utförs på rätt sätt kan den alltså utövas under ganska långa pass utan att man blir uttröttad eller faller i sömn. Jag vill emellertid inte råda någon att hålla på mer än en halvtimme Om man vill kan man göra den flera gånger om dagen, när som helst utom omedelbart efter en måltid.</p>
 <p>De korta ögonblick av ensamhet som det dagliga livet unnar oss då och då kan också användas till denna övning. Den skänker vila och förnyar krafterna.</p> 
    
-  
-  
-
- <p>Hi there! I'm the proud creator of this site, which I built with Gatsby.</p>
     </Layout>
   )
 }

@@ -249,60 +249,46 @@ const IndexPage = () => {
      <tr>
      <th colspan="2">Övningens frukter</th>
      </tr>
-    
-    
-    
-    
-  </tbody>
-  </table>
-<p></p>
-<table>
-	<thead>
-		<tr>
-		<th>2. Att andas</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-		<td>Andning och känslor</td>
-		</tr>
-		<tr>
-		<td>Andning vår inre terapeut</td>
-		</tr>
-        <tr>
-        <td>Den centrala övningen</td>
-        </tr>
-        <tr>
-        <td>Frihet</td>
-        </tr>
-        <tr>
-        <td>Mental närvaro</td>
-        </tr>
-        <tr>
-        <td>Balans</td>
-        </tr>
-        <tr>
-        <th>Övningens frukter</th>
-        </tr>
+    <tr>
+    <th>8. Vågen</th>
+    </tr>
+    <tr>
+    <td>Förberedande övning</td>
+    </tr>
+    <tr>
+    <td>Den centrala övningen</td>
+    </tr>
+    <tr>
+    <td>Två tillämpningar</td>
+    </tr>
+    <tr>
+    <td>Att ge sig hän</td>
+    </tr>
+    <tr>
+    <td>Motståndet</td>
+    </tr>
+     <tr>
+     <th colspan="2">Övningens frukter</th>
+     </tr>
+    <tr>
+    <td>Djuret, roboten och männinskan</td>
+    </tr>
+    <tr>
+    <td>Apollon och Dionysos</td>
+    </tr>
+     <tr>
+    <th>9. Innan vi skiljs åt</th>
+    </tr>
+    <tr>
+    <td>Från den synliga till den osynliga övningen</td>
+    </tr>
+    <tr>
+    <td>Från den osynliga till den ständiga övningen</td>
+    </tr>
     </tbody>
-    <thead>
-		<tr>
-		<th>2. Att andas</th>
-		</tr>
-	</thead>
-   
-</table>
+  </table>
 
 
-
-<ul>
-<li>Vi möts</li>
-<li>Att andas</li>
-<li>Att sitta</li>
-<li>Att stå</li>
-<li>Att använda rösten</li>
-<li>Att gå - Pisksnärten - Vågen - Innan vi skiljs</li>
-</ul>
 
       
   

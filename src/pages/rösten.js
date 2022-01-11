@@ -142,7 +142,6 @@ När man närmar sig rösten ur detta perspektiv är arbetet med vokalerna i all
 <p>Att öppna och utveckla rösten och göra den flexibel det är att arbeta med hela vårt väsen. Rösten fungerar som ett vibrationsbad, och vi kan öka dess välgörande inverkan genom övningar som de jag har föreslagit. Till och med talrösten kan bli ett sätt att ge uttryck för vår konstnärliga sensibilitet. Men i stället för att forma den efter material utifrån, som en målare eller skulptur, modellerar vi fram den inifrån i intimt samband med våra känslor och föreställningar.</p>
 <p>Utifrån centrum ger rösten färg och innebörd åt den utstrålande närvaro som osynligt bär upp vår förbindelse med omvärlden.</p> 
 
-    <p>Hi there! I'm the proud creator of this site, which I built with Gatsby.</p>
     </Layout>
   )
 }
