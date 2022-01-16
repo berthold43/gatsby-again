@@ -4,7 +4,7 @@ const AboutPage = () => {
   return (
     <Layout pageTitle="Den harmoniska kroppen">
 
-<h3>Att sitta</h3>
+<h3>Att sitta ner</h3>
 <p>Barnet är visserligen redo att andas i samma ögonblick som det föds, men det kan varken stå eller gå. Medan den lilla kycklingen springer omkring från sin första levnadsdag krävs det mer än ett år innan människobarnet uppnår samma färdighet.</p>
 <p>För att detta skall lyckas krävs att nervsystemet utvecklas. Ett skyddande fettämne, myelinet, måste undan för undan bildas runt nerverna för att möjliggöra överföringen av de impulder som skall sörja för kontrollen av muskelsystemet. Denna myeliniseringsprocess går i riktning från huvudet ner mot halsen för att så småningom nå ut till hela kroppen.</p>
 <p>Efter några veckor lyder halsen de viljestyrda impulserna och det lilla barnet kan hålla huvudet upprätt. Och så kommer den dag då ryggen erövrats och barnet för första gången kan sitta själv, på sin egen bak, tack vare att det etablerat detta för människan unika samspel med tyngdkraften som leder till den upprätta kroppställningen.</p>
