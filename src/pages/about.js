@@ -3,7 +3,7 @@ import Layout from '../components/layout'
 const AboutPage = () => {
   return (
     <Layout pageTitle="Den harmoniska kroppen">
-<h3>Vi möts</h3>
+<h3>Vi möts igen</h3>
 <p>Den osynliga övningen - som är underrubriken på denna bok - är mera ett svar på frågan "hur skall vi göra" än på frågan "vad skall vi göra"?</p>
 <p>Hur ska vi göra för att i alla våra handlingar ge uttryck för hela den enhet och frihet som är möjlig för vår organism?</p>
 <h3>Ett sökande</h3>
